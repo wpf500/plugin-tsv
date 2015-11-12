@@ -1,6 +1,11 @@
 tsv
 ===
-Tab-separated value plugin
+Tab-separated value plugin. Very basic, basically for copy & pasting data from a spreadsheet.
+
+Does NOT:
+- check for correct number of columns in each row
+- look for any escape characters
+
 
 Install
 -------
