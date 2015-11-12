@@ -1,0 +1,14 @@
+{
+  "name": "wpf500-plugin-tsv",
+  "version": "0.0.1",
+  "main": "tsv",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wpf500/plugin-tsv.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wpf500/plugin-tsv/issues"
+  },
+  "homepage": "https://github.com/wpf500/plugin-tsv"
+}
