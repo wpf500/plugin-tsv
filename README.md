@@ -10,7 +10,7 @@ Does NOT:
 Install
 -------
 ```
-jspm install github:wpf500/plugin-tsv
+jspm install tsv
 ```
 
 Usage
